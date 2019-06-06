@@ -6,7 +6,8 @@
     "chart.js": "^1.1.1",
     "react": "^16.8.0",
     "react-chartjs": "^1.2.0",
-    "react-dom": "^16.8.0"
+    "react-dom": "^16.8.0",
+    "recompose": "^0.30.0"
   },
   "scripts": {
     "start": "react-scripts start",
